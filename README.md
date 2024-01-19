@@ -1,10 +1,10 @@
 # BLOG ALLIANCE TSHINDAYI
 
-Bienvenue dans la documentation de [Alliance TSHINDAYI Blog] !
+Bienvenue dans la documentation de Alliance TSHINDAYI Blog !
 
 ## Description
 
-Bienvenue dans le blog [Alliance Tshindayi Blog] ! Notre plateforme offre une expérience de blogging simple et élégante, vous permettant de partager vos idées et vos passions avec le monde.
+Bienvenue dans le blog Alliance Tshindayi Blog ! Notre plateforme offre une expérience de blogging simple et élégante, vous permettant de partager vos idées et vos passions avec le monde.
 
 ## Installation
 
